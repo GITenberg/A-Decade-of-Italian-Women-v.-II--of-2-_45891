@@ -1,0 +1,32 @@
+_repo: A-Decade-of-Italian-Women-v.-II--of-2-_45891
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45891-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Trollope, Thomas Adolphus
+    alias: Trollope, T. Adolphus (Thomas Adolphus)
+    birthdate: 1810
+    deathdate: 1892
+    gutenberg_agent_id: '1723'
+    url: http://www.gutenberg.org/2009/agents/1723
+description: ''
+gutenberg_issued: '2014-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Italy -- Biography'
+- !lcsh 'Women -- Biography'
+- !lcc 'DG'
+tableOfContents: Tullia d'Aragona, c. 1510-c. 1570 -- Olympia Morata, 1526-1555 --
+  Isabella Andreini, 1562-1604 -- Bianca Cappello, 1548-1587 -- Olympia Pamfili, 1594-1656
+  -- Elisabetta Sirani, 1638-1665 -- La Corilla, 1740-1800.
+title: A Decade of Italian Women, vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/45891
